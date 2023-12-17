@@ -2,22 +2,20 @@
 **mmehmetAliIzci/mmehmetAliIzci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->  
 
-<h1 align="center"> 👋 Hi, I'm Mehmet Ali IZCI </h1>
+<h1 align="center"> 👋 Salutations, I'm Mehmet Ali IZCI (100% remote)</h1>
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDY1cHRhdHVudXZ2cTJzbHZzeDMzYWF6MjdybTdkZWNtNjBnaTJscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H1dxi6xdh4NGQCZSvz/giphy.gif" alt="header"/>
 </div>
 
-<h2 align="center"> 👨‍💻 Who am I?</h2>
+<h2 align="center"> 👨‍💻 Who am I? </h2>
 <p align="center">
   <samp>
-    I'm passionate about problem-solving and relish the opportunity to put my brain and fingers to work. I enjoy collaborating with others to find creative solutions to complex challenges. When not working, I'm often scaling rock faces, dancing to Latin rhythms, or gaming.
+    I'm passionate about problem-solving and relish the opportunity to put my brain and fingers to work. I enjoy collaborating with others to find creative solutions to complex challenges. Im a sociable creature. When not working, I'm often scaling rock faces, dancing to Latin rhythms, or gaming.
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=mmehmetAliIzci" alt="Profile views" />
   <br> <br>
-  <a href="https://github.com/mmehmetAliIzci">
-    <img src="https://gh-md-stats.vercel.app/api?username=mmehmetAliIzci&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=89b4fa&border_color=cba6f7&count_private=true&show_icons=true&include_all_commits=true&number_format=long&show=prs_merged&disable_animations=true&custom_title=Github%20Stats&rank_icon=github" alt="Github Stats"/>
-  </a>
+
 </p>
 
 <hr>
@@ -31,7 +29,41 @@
   <img src="https://img.shields.io/badge/Docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
-  JS, HTML, SASS, React Native, Storybook, Go, C#, DevOPS (Azure), Communication, Leadership, Adaptability, Time Management.
+  <strong>Tech Skills:</strong>
+  <br>
+  <strong>Frontend:</strong>
+  <ul align="center">
+    <li>JS, HTML, SASS - 7+ years</li>
+    <li>React - 6+ years</li>
+    <li>TypeScript - 5+ years</li>
+    <li>React Native - 3+ years</li>
+    <li>Next.js - 3+ years</li>
+    <li>Storybook - 2+ years</li>
+  </ul>
+  <strong>Backend & DevOps:</strong>
+  <ul align="center">
+    <li>Go - 1 year</li>
+    <li>C# - 3+ years</li>
+    <li>Docker - 3+ years</li>
+    <li>DevOps (Azure) - 3+ years</li>
+  </ul>
+</p>
+
+<hr>
+
+<h2 align="center"> 🌱 What I am Learning Right Now? </h2>
+<p align="center">
+  <samp>
+    My current learning journey is centered around diving into <strong>Golang</strong> as a backend language. I'm keen on enhancing my understanding of design patterns, microservices, and full-stack development. This exploration is not just theoretical; I'm actively applying these concepts in real-world projects.
+  </samp>
+  <br><br>
+  For instance, I am currently developing an innovative project, akin to an <strong>"Airbnb for Parking Spots in Bangkok"</strong>. This project leverages the latest technologies including Next.js, Golang, Tailwind, and Docker, allowing me to apply my learning in a practical, impactful way.
+  <br><br>
+  <strong>Check out my ongoing work on this project:</strong>
+  <ul align="center">
+    <li><a href="https://github.com/mmehmetAliIzci/prestige-park-be">Prestige Park Backend (Golang)</a></li>
+    <li><a href="https://github.com/mmehmetAliIzci/prestige-park-fe">Prestige Park Frontend (Next.js)</a></li>
+  </ul>
 </p>
 
 <hr>
