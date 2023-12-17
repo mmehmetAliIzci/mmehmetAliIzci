@@ -2,7 +2,7 @@
 **mmehmetAliIzci/mmehmetAliIzci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->  
 
-<h1 align="center"> 👋 Salutations, I'm Mehmet Ali IZCI Software Dev (100% remote EMEA - SEA)</h1>
+<h1 align="center"> 👋 Salutations (100% remote EMEA - SEA)</h1>
 
 ## Table of Contents
 
@@ -23,6 +23,15 @@
 <p align="center">
   <samp>
     I'm passionate about problem-solving and relish the opportunity to put my brain and fingers to work. I enjoy collaborating with others to find creative solutions to complex challenges. Im a sociable creature. When not working, I'm often scaling rock faces, dancing to Latin rhythms, or gaming.
+  </samp>
+  <br> <br>
+  <h3 align="center"> 🚧 Industries i've worked on</h2>
+  <samp>
+    Low code, no code - Mendix
+    Generic Widget Development - Mendix
+    Customer facing, tech support  - Mendix
+    High volume multi language e-commerce - blu.com
+    Banking - Rabobank
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=mmehmetAliIzci" alt="Profile views" />
