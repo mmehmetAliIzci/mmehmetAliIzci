@@ -3,6 +3,18 @@
 --->  
 
 <h1 align="center"> 👋 Salutations, I'm Mehmet Ali IZCI (100% remote)</h1>
+
+# Table of Contents
+
+- [👨‍💻 Who am I?](#-who-am-i)
+- [🔭 Tech Skills](#-tech-skills)
+- [🌱 What I am Learning Right Now?](#-what-i-am-learning-right-now)
+- [💬 Certifications](#-certifications)
+- [📫 Reach me on](#-reach-me-on)
+- [🚀 Frontend Coding Challenge Projects](#-frontend-coding-challenge-projects)
+
+<hr>
+
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDY1cHRhdHVudXZ2cTJzbHZzeDMzYWF6MjdybTdkZWNtNjBnaTJscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H1dxi6xdh4NGQCZSvz/giphy.gif" alt="header"/>
 </div>
@@ -28,26 +40,30 @@
   <img src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
-<p align="center">
-  <strong>Tech Skills:</strong>
-  <br>
-  <strong>Frontend:</strong>
-  <ul align="center">
-    <li>JS, HTML, SASS - 7+ years</li>
-    <li>React - 6+ years</li>
-    <li>TypeScript - 5+ years</li>
-    <li>React Native - 3+ years</li>
-    <li>Next.js - 3+ years</li>
-    <li>Storybook - 2+ years</li>
-  </ul>
-  <strong>Backend & DevOps:</strong>
-  <ul align="center">
-    <li>Go - 1 year</li>
-    <li>C# - 3+ years</li>
-    <li>Docker - 3+ years</li>
-    <li>DevOps (Azure) - 3+ years</li>
-  </ul>
-</p>
+<table align="center">
+  <tr>
+    <td valign="top">
+      <strong>Frontend:</strong>
+      <ul>
+        <li>JS, HTML, SASS - 7+ years</li>
+        <li>React - 6+ years</li>
+        <li>TypeScript - 5+ years</li>
+        <li>React Native - 3+ years</li>
+        <li>Next.js - 3+ years</li>
+        <li>Storybook - 2+ years</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <strong>Backend & DevOps:</strong>
+      <ul>
+        <li>Go - 1 year</li>
+        <li>C# - 3+ years</li>
+        <li>Docker - 3+ years</li>
+        <li>DevOps (Azure) - 3+ years</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <hr>
 
@@ -60,7 +76,7 @@
   For instance, I am currently developing an innovative project, akin to an <strong>"Airbnb for Parking Spots in Bangkok"</strong>. This project leverages the latest technologies including Next.js, Golang, Tailwind, and Docker, allowing me to apply my learning in a practical, impactful way.
   <br><br>
   <strong>Check out my ongoing work on this project:</strong>
-  <ul align="center">
+  <ul>
     <li><a href="https://github.com/mmehmetAliIzci/prestige-park-be">Prestige Park Backend (Golang)</a></li>
     <li><a href="https://github.com/mmehmetAliIzci/prestige-park-fe">Prestige Park Frontend (Next.js)</a></li>
   </ul>
