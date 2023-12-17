@@ -19,25 +19,41 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDY1cHRhdHVudXZ2cTJzbHZzeDMzYWF6MjdybTdkZWNtNjBnaTJscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H1dxi6xdh4NGQCZSvz/giphy.gif" alt="header"/>
 </div>
 
-<h2 align="center"> 👨‍💻 Who am I? </h2>
+<h2 align="center">👨‍💻 Who am I?</h2>
 <p align="center">
   <samp>
-    I'm passionate about problem-solving and relish the opportunity to put my brain and fingers to work. I enjoy collaborating with others to find creative solutions to complex challenges. Im a sociable creature. When not working, I'm often scaling rock faces, dancing to Latin rhythms, or gaming.
+    I'm passionate about problem-solving and relish the opportunity to put my brain and fingers to work. I enjoy collaborating with others to find creative solutions to complex challenges. I'm a sociable creature. When not working, I'm often scaling rock faces, dancing to Latin rhythms, or gaming.
   </samp>
-  <br> <br>
-  <h3 align="center"> 🚧 Industries i've worked on</h2>
-  <samp>
-    Low code, no code - Mendix
-    Generic Widget Development - Mendix
-    Customer facing, tech support  - Mendix
-    High volume multi language e-commerce - blu.com
-    Banking - Rabobank
-  </samp>
-  <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=mmehmetAliIzci" alt="Profile views" />
-  <br> <br>
-
 </p>
+
+<h3 align="center">🚧 Industries I've Worked On</h3>
+<table align="center">
+  <tr>
+    <td><strong>Low code, no code</strong></td>
+    <td>Mendix</td>
+  </tr>
+  <tr>
+    <td><strong>Generic Widget Development</strong></td>
+    <td>Mendix</td>
+  </tr>
+  <tr>
+    <td><strong>Customer Facing, Tech Support</strong></td>
+    <td>Mendix</td>
+  </tr>
+  <tr>
+    <td><strong>High Volume Multi Language E-commerce</strong></td>
+    <td>blu.com</td>
+  </tr>
+  <tr>
+    <td><strong>Banking</strong></td>
+    <td>Rabobank</td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mmehmetAliIzci" alt="Profile views" />
+</p>
+
 
 <hr>
 
