@@ -34,8 +34,11 @@
 
 <h2 align="center">💬 Certifications</h2>
 <p align="center">
-  <samp>[CERTIFIED PROFESSIONAL FOR SOFTWARE ARCHITECT, Netherlands — Aug 2022](https://www.credential.net/4af04b0f-f90d-43dd-b632-b8588af0809f?username=mehmetaliizci474234)</samp>
+  <samp>
+    <a href="https://www.credential.net/4af04b0f-f90d-43dd-b632-b8588af0809f?username=mehmetaliizci474234">CERTIFIED PROFESSIONAL FOR SOFTWARE ARCHITECT, Netherlands — Aug 2022</a>
+  </samp>
 </p>
+
 
 <hr>
 
