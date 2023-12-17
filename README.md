@@ -2,9 +2,9 @@
 **mmehmetAliIzci/mmehmetAliIzci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->  
 
-<h1 align="center"> 👋 Salutations, I'm Mehmet Ali IZCI (100% remote)</h1>
+<h1 align="center"> 👋 Salutations, I'm Mehmet Ali IZCI Software Dev (100% remote EMEA - SEA)</h1>
 
-# Table of Contents
+## Table of Contents
 
 - [👨‍💻 Who am I?](#-who-am-i)
 - [🔭 Tech Skills](#-tech-skills)
