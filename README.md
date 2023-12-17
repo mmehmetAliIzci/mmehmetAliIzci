@@ -13,7 +13,11 @@
     I'm passionate about problem-solving and relish the opportunity to put my brain and fingers to work. I enjoy collaborating with others to find creative solutions to complex challenges. When not working, I'm often scaling rock faces, dancing to Latin rhythms, or gaming.
   </samp>
   <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=mmehmetAliIzci" alt="https://github.com/mmehmetAliIzci" />
+  <img src="https://komarev.com/ghpvc/?username=mmehmetAliIzci" alt="Profile views" />
+  <br> <br>
+  <a href="https://github.com/mmehmetAliIzci">
+    <img src="https://gh-md-stats.vercel.app/api?username=mmehmetAliIzci&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=89b4fa&border_color=cba6f7&count_private=true&show_icons=true&include_all_commits=true&number_format=long&show=prs_merged&disable_animations=true&custom_title=Github%20Stats&rank_icon=github" alt="Github Stats"/>
+  </a>
 </p>
 
 <hr>
