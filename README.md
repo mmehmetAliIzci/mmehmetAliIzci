@@ -1,6 +1,6 @@
 <!--
 **mmehmetAliIzci/mmehmetAliIzci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->  
+--->
 
 <h1 align="center"> 👋 Salutations (100% remote EMEA - SEA)</h1>
 
@@ -12,6 +12,7 @@
 - [💬 Certifications](#-certifications)
 - [📫 Reach me on](#-reach-me-on)
 - [🚀 Frontend Coding Challenge Projects](#-frontend-coding-challenge-projects)
+- [🚀 Blogs](#-blogs)
 
 <hr>
 
@@ -53,7 +54,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mmehmetAliIzci" alt="Profile views" />
 </p>
-
 
 <hr>
 
@@ -116,7 +116,6 @@
   </samp>
 </p>
 
-
 <hr>
 
 <h2  align="center">📫 Reach me on</h2>
@@ -127,16 +126,24 @@
 
 <hr>
 
-# Frontend Coding Challenge Projects
+<h2 align="center">🚀 Frontend Coding Challenge Projects</h2>
 
 My collection of frontend projects, developed as part of various coding challenges. These projects demonstrate my skills in web development, focusing on React, Next.js, Tailwind CSS, TypeScript, and other modern technologies. Below you'll find a table overview of each project with links to live demos, GitHub repositories, and key technical details.
 
 ## Projects Overview
 
-| Name                          | Description                                       | Technologies Used                                 | GitHub Link             | Live URL                                         |
-|-------------------------------|---------------------------------------------------|---------------------------------------------------|-------------------------|--------------------------------------------------|
-| Energy Management Platform    | An advanced web application for hotel energy management. | <img src="https://img.shields.io/badge/React-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" /> | [GitHub](#)             | [Live Demo](https://energy-insights-dashboard.vercel.app/) |
-| PDF Uploader                  | A streamlined web application for uploading and compressing PDFs. | <img src="https://img.shields.io/badge/React-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" /> | [GitHub](#)             | [Live Demo](https://pdf-uploader-iota.vercel.app/) |
-| Infinite Loader React Component | A highly adaptable and efficient infinite loader component for React. | <img src="https://img.shields.io/badge/React-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" /> | [GitHub](#)             | [Live Demo](https://infinite-loader.vercel.app/) |
-| Time Slot Reservation System  | A dynamic web application for scheduling and managing time slots. | <img src="https://img.shields.io/badge/React-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" /> | [GitHub](#)             | [Live Demo](https://timeslot-picker.vercel.app/) |
-| Live Search Box - Step Wizard | A clone project focusing on a "Live Search Box" and a multi-step wizard. | <img src="https://img.shields.io/badge/React-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" /> | [GitHub](#)             | [Live Demo](https://woz-clone.vercel.app/)      |
+| Name                            | Description                                                              | Technologies Used                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | GitHub Link                                                          | Live URL                                                   |
+| ------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------- |
+| Energy Management Platform      | An advanced web application for hotel energy management.                 | <img src="https://img.shields.io/badge/React-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" /> | [GitHub](https://github.com/mmehmetAliIzci/energy-insight-dashboard) | [Live Demo](https://energy-insights-dashboard.vercel.app/) |
+| PDF Uploader                    | A streamlined web application for uploading and compressing PDFs.        | <img src="https://img.shields.io/badge/React-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" /> | [GitHub](https://github.com/mmehmetAliIzci/pdf-uploader)             | [Live Demo](https://pdf-uploader-iota.vercel.app/)         |
+| Infinite Loader React Component | A highly adaptable and efficient infinite loader component for React.    | <img src="https://img.shields.io/badge/React-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />                                                                                                                                                                                                                                                 | [GitHub](https://github.com/mmehmetAliIzci/infiniteLoader)           | [Live Demo](https://infinite-loader.vercel.app/)           |
+| Time Slot Reservation System    | A dynamic web application for scheduling and managing time slots.        | <img src="https://img.shields.io/badge/React-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />                                                                                                                    | [GitHub](https://github.com/mmehmetAliIzci/timeslotPicker)           | [Live Demo](https://timeslot-picker.vercel.app/)           |
+| Live Search Box - Step Wizard   | A clone project focusing on a "Live Search Box" and a multi-step wizard. | <img src="https://img.shields.io/badge/React-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />                                                                                                                              | [GitHub](https://github.com/mmehmetAliIzci/woz-clone)                | [Live Demo](https://woz-clone.vercel.app/)                 |
+
+<h2 align="center">🚀 Blogs</h2>
+
+<p align="center">
+  <samp>
+    <a href="https://dev.to/mmehmetaliizci/cook-me-a-slack-bot-23fd">Slack bot with TS-GO</a>
+  </samp>
+</p>
